@@ -18,20 +18,20 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 🎯 Goal: Deploy a simple HTML website using Apache.
 
 Steps:
-# Launch an EC2 Instance
+#Launch an EC2 Instance
 sudo yum update -y
 sudo yum install httpd -y
 sudo systemctl start httpd
 sudo systemctl enable httpd
 
-# Create a test webpage:
+#Create a test webpage:
 
 #echo "<h1>Welcome to My EC2 Web Server</h1>" | sudo tee /var/www/html/index.html
 
 
-# Open your EC2 public IP in a browser → you should see the page.
+#Open your EC2 public IP in a browser → you should see the page.
 
-# To customize, upload your HTML files via:
+#To customize, upload your HTML files via:
 
 scp -i mykey.pem index.html ec2-user@<Public-IP>:/var/www/html/
 
