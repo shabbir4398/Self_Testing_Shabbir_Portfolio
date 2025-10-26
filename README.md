@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 - 💡 Transitioning from IT Engineering → Cloud/DevOps
-- 💬 Ask me about: Systems Administaration, Cloud Services, Automation & CICD.
+- 💬 Ask me about: Systems Administration, Cloud Services, Automation & CICD.
 - 📫 Connect: [LinkedIn](https://linkedin.com/in/yourprofile)
 
   
