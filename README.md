@@ -35,7 +35,7 @@ sudo systemctl enable httpd
 
 scp -i mykey.pem index.html ec2-user@<Public-IP>:/var/www/html/
 
-✅ We just hosted a web server!
+✅We just hosted a web server!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔵 Project 2: Automate Server Setup with User Data Script
 🎯 Goal: Auto-install Apache & host site on launch.
@@ -50,4 +50,4 @@ systemctl start httpd
 systemctl enable httpd
 echo "<h1>Auto-Deployed Website</h1>" > /var/www/html/index.html
 #Launch → wait 2 minutes → open instance’s public IP.
-✅ Website is automatically deployed during instance boot.
+✅Website is automatically deployed during instance boot.
