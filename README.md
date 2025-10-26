@@ -15,7 +15,7 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 ## 📂Cloud/DevOps Practice Projects
 
 🔵 Project 1:  Host a Static Website on AWS EC2 using Apache
-🎯 Goal: Deploy a simple HTML website using Apache.
+🎯 Goal: Deploy a HTML website using Apache.
 
 🔵 Project 2: Automate Server Setup with User Data Script
 🎯 Goal: Auto-install Apache & host site on launch.
