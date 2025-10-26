@@ -12,8 +12,10 @@ Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernete
 
 This portfolio highlights my Cloud/DevOps learning projects and hands-on automation Task.
 
-##📂Featured Projects
- 
+## 📂Featured Projects
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔵 Project 1:  Host a Static Website on AWS EC2 using Apache
+🎯 Goal: Deploy a simple HTML website using Apache.
+
 🔵 Project 2: Automate Server Setup with User Data Script
 🎯 Goal: Auto-install Apache & host site on launch.
