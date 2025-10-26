@@ -1,10 +1,16 @@
  # 👋 Hi, I'm Shabbir
-### 🧑‍💻 IT Engineer | Transitioning from IT Engineering → Cloud/DevOps
+ ### 🧑‍💻 IT Engineer | Transitioning from IT Engineering → Cloud/DevOps
 
-This portfolio highlights my Cloud/DevOps learning projects and hands-on automation Task.
+## 🧑‍💻 About Me
+- 💡 Transitioning from IT Engineering → Cloud/DevOps
+- 💬 Ask me about: Systems Administaration, Cloud Services, Automation & CICD.
+- 📫 Connect: [LinkedIn](https://linkedin.com/in/yourprofile)
 
+  
 ## 🔧 Tools & Technologies
 Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernetes | Jenkins | Ansibile
+
+This portfolio highlights my Cloud/DevOps learning projects and hands-on automation Task.
 
 ## 📂 Featured Projects
 🔵 Project 1:  Host a Static Website on AWS EC2 using Apache
@@ -31,10 +37,6 @@ scp -i mykey.pem index.html ec2-user@<Public-IP>:/var/www/html/
 
 ✅ We just hosted a web server!
 
-## 🧑‍💻 About Me
-- 💡 Transitioning from IT Engineering → Cloud/DevOps
-- 💬 Ask me about: Cloud automation, CI/CD, Infrastructure as Code
-- 📫 Connect: [LinkedIn](https://linkedin.com/in/yourprofile)
 
 
 
