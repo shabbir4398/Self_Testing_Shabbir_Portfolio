@@ -10,7 +10,7 @@ Networking | Linux | Shell Scripting | AWS | Terraform | Git | Docker | Kubernet
 - 🏗️ [Terraform AWS Infrastructure](https://github.com/username/terraform-aws-vpc)
 - 🐳 [Kubernetes Deployment Demo](https://github.com/username/k8s-deployment)
 - ⚙️ [Ansible Automation Scripts](https://github.com/username/ansible-server-setup)
-- 🚀 [CI/CD Pipeline with GitHub Actions](https://github.com/username/github-actions-pipeline)
+- 🚀 [CI/CD Pipeline with GitHub](https://github.com/username/github-actions-pipeline)
 
 ## 🧑‍💻 About Me
 - 💡 Transitioning from IT Engineering → Cloud/DevOps
