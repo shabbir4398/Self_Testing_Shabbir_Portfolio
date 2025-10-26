@@ -49,5 +49,5 @@ yum install -y httpd
 systemctl start httpd
 systemctl enable httpd
 echo "<h1>Auto-Deployed Website</h1>" > /var/www/html/index.html
-# Launch → wait 2 minutes → open instance’s public IP.
+#Launch → wait 2 minutes → open instance’s public IP.
 ✅ Website is automatically deployed during instance boot.
