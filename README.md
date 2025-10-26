@@ -20,7 +20,7 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 🔵 Project 2: Automate Server Setup with User Data Script
 🎯 Goal: Auto-install Apache & host site on launch.
 
-🔵 Project 3: Install & Secure MySQL on AWS EC2
+🔵 Project 3: Install & Secure MySQL on AWS EC2.
 
          🎯 Goals: By the end of this project,
          *Launch and connect to an EC2 instance
