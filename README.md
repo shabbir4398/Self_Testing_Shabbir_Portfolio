@@ -20,7 +20,7 @@ sudo systemctl enable httpd
 
 #Create a test webpage:
 
-echo "<h1>Welcome to My EC2 Web Server</h1>" | sudo tee /var/www/html/index.html
+#echo "<h1>Welcome to My EC2 Web Server</h1>" | sudo tee /var/www/html/index.html
 
 
 #Open your EC2 public IP in a browser → you should see the page.
