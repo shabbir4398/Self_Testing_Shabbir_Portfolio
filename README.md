@@ -4,7 +4,7 @@
 This portfolio highlights my Cloud/DevOps learning projects and hands-on automation Task.
 
 ## 🔧 Tools & Technologies
-Networking | Linux | Shell Scripting | AWS | Terraform | Git | Docker | Kubernetes | Jenkins | Ansibile
+Networking | Linux | AWS | Shell Scripting| Terraform | Git | Docker | Kubernetes | Jenkins | Ansibile
 
 ## 📂 Featured Projects
 - 🏗️ [Terraform AWS Infrastructure](https://github.com/username/terraform-aws-vpc)
