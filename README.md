@@ -14,15 +14,6 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 
 ## 📂Cloud/DevOps Projects
 
-🔵 Project 1:  Host a Static Website on AWS EC2 using Apache
-🎯Objective: Deploy a HTML website using Apache.
-
-🔵 Project 2: Automate Server Setup with User Data Script
-🎯 Objective: Auto-install Apache & host site on launch.
-
-🔵 Project 3: Install & Secure MySQL on AWS EC2.
-🎯 Objective: Set up a production-ready MySQL Database Server on an AWS EC2 instance.
- 
  | Project                                   | Description                                                      |
 | ----------------------------------------- | ---------------------------------------------------------------- |
 | **Project 1:** User Management            | Automate user creation and permission setup via bash script      |
@@ -36,7 +27,7 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 
 ## 🚀 Beginner DevOps & Linux Projects
 
-> 💡 *Hands-on projects to build your foundation in Databases, Web Servers, File Servers, and Bash Automation.*
+> 💡 *Hands-on projects to build my foundation in Databases, Web Servers, File Servers, and Bash Automation.*
 
 ---
 
@@ -77,7 +68,6 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 `Linux Administration` • `MySQL / MariaDB / PostgreSQL` • `Apache / Nginx` • `NFS / Samba` • `Bash Scripting` • `Automation` • `System Security`
 
 ---
-
-⭐ *These projects will help you showcase your practical DevOps skills on GitHub — ideal for beginner Cloud & DevOps Engineers.*
+⭐*These projects are great starting points to building my  DevOps fundamentals in Linux, databases, web hosting, and scripting automation.*
 
 
