@@ -19,7 +19,32 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 
 Apache/Nginx on AWS EC2
 
+Install web server
+
+Host a website
+
+Configure virtual hosts
+
+Enable HTTPS (Let’s Encrypt)
+
+Basic troubleshooting
+---------------------------------------------------------------
+
+
 MariaDB install & backup automation
+
+Install DB
+
+Create database & users
+
+Permissions
+
+Backup → Restore
+
+Remote access
+
+Change ports
+----------------------------------------------------------------------------------------------
 
 Linux shell script automation
 
