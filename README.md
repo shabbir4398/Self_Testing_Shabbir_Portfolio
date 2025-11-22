@@ -17,7 +17,7 @@ This portfolio highlights my Cloud/DevOps learning projects and hands-on automat
 🔹 Real Projects (For Resume + GitHub)
 
 
-Apache/Nginx on AWS EC2
+P1-Apache/Nginx on AWS EC2
 
 Install web server
 
@@ -32,7 +32,7 @@ Basic troubleshooting
 ===========================================================================
 
 
-MariaDB install & backup automation
+P2-MariaDB install & backup automation
 
 Install DB
 
@@ -48,11 +48,9 @@ Change ports
 
 =============================================================================================
 
-Linux shell script automation
-
-MySQL + WebServer setup
-
-File server (NFS or Samba)
+P3-Linux shell script automation
+P4-File server (NFS or Samba)
+P5-MySQL + WebServer setup
 
 ## 🚀 Beginner DevOps & Linux Projects
 
